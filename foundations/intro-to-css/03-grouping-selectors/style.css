@@ -1,0 +1,14 @@
+.child1,
+.child2 {
+    font-size: 28px;
+    font-family: "Halvetica", "Times New Roman", sans-serif;
+}
+
+.child1{
+    background-color: black;
+    color: white;
+}
+
+.child2 {
+    background-color: yellow;
+}
